@@ -7,14 +7,6 @@
 <br />
 <br />
 
-### Contact.
-
-Phone. 010-2259-2917
-
-Email. wjsdydxo45@naver.com
-
-<br />
-
 ---
 
 <br />
