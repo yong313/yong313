@@ -13,12 +13,6 @@ Phone. 010-2259-2917
 
 Email. wjsdydxo45@naver.com
 
-### Channel.
-
-Blog. [yong313.github.io](https://yong313.github.io/)
-
-Github.  [https://github.com/yong313](https://github.com/yong313)
-
 <br />
 
 ---
