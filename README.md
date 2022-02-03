@@ -7,7 +7,7 @@
 <br />
 <br />
 
-<img width="250px" src="https://user-images.githubusercontent.com/85574104/152402553-8aa469a0-6645-4ce2-b3f6-376a6ba4b409.png"/>
+<img width="180px" src="https://user-images.githubusercontent.com/85574104/152402553-8aa469a0-6645-4ce2-b3f6-376a6ba4b409.png"/>
 
 ### Contact.
 
