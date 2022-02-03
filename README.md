@@ -1,13 +1,11 @@
 
 <br />
 
-# 전용태  |  이로운 것을 만드는 개발자
+## 이로운 것을 만드는 개발자 👨🏻‍💻
 
 성장중인 신입 프론트엔드 개발자 전용태입니다.
 <br />
 <br />
-
-<img width="180px" src="https://user-images.githubusercontent.com/85574104/152402553-8aa469a0-6645-4ce2-b3f6-376a6ba4b409.png"/>
 
 ### Contact.
 
@@ -41,77 +39,4 @@ Github.  [https://github.com/yong313](https://github.com/yong313)
 
 ---
 
-<br />
-
-# Work Experience.
-
-<br />
-
-## [시컴스](https://www.sicoms.co.kr/main.do)
-
-IoT 디바이스 및 플랫폼 개발을 통한 통합서비스를 제공, Energy Monitoring System Device 개발 사업 진행
-
-Web Publisher &
-Designer
-
-2017.09-2018.11
-
-- 자사 제품 온라인 판매를 위한 홈페이지 리뉴얼 참여
-- html, css, javascript를 활용하여 자사 홈페이지 리뉴얼 개발
-- Photoshop, Illustrator를 활영하여 홈페이지 리뉴얼 기획 및 디자인
-- 회사내의 제품 홍보, 회사소개 디자인 작업 전담
-
-<br />
-
----
-
-<br />
-
-## [생드백](https://thandbag.com/) - [Github](https://github.com/thandbag/thandbag_FE)
-
-일상 생활 속 스트레스, 고민을 샌드백을 때리며 재미있게 풀 수 있는 스트레스 해소 커뮤니티 기반 서비스 [생드백](https://thandbag.com)
-
-Front-End Developer
-
-2021.12-2018.02
-
-- 커뮤니티 서비스 CRUD - 게시글 삭제 구현 (게시글 작성자에게만 삭제 버튼이 보이게 설정)
-- 모바일 환경에서의 터치 이벤트(스와이프에)에 잘 반응하는 Slider를 표현하기 위해 Swiper.js사용 (카테고리 영역, 웰컴페이지에 적용)
-- 게시글 작성 시 사용자의 다양한 글작성을 위해 텍스트 에디터 사용 (React Quill)
-- 유저가 프로젝트 내에서 흐름을 인지할 수 있도록 Modal을 통해 현재 상태를 제공
-- 프로젝트의 전반적인 UI 및 디자인 css 전담하여 유저 친화적이고 프로젝트 컨셉트와 흐름을 사용자가 파악하기 쉽게 하는데 중점을 두고 개발
-
-GitHub - [https://github.com/thandbag/thandbag_FE](https://github.com/thandbag/thandbag_FE)
-
-<br />
-
----
-
-<br />
-
-## [트위터 클론코딩](http://twitterclone12-18.s3-website.ap-northeast-2.amazonaws.com/) - [Github](https://github.com/CloneCoding-Twitter/Twitter-Front-End)
-
-sns의 대표주자 트위터를 클론 코딩 - (로그인, 회원가입, 게시글, 댓글 등록, 삭제, 수정 CRUD 기능 중점)
-
-Front-End Developer
-
-2021.12-2018.02
-
-- formik과 Yup 라이브러리를 사용해서 form 양식을 핸들링하여 로그인, 회원가입 구현
-- 로그인, 회원가입 시 유효성 검사를 통해 사용자에게 오류 메세지 전달 올바른 절차 유도
-- Twitter의 UI를 최대한 반영하여 유저 친화적인 환경 조성
-
-GitHub - [https://github.com/CloneCoding-Twitter/Twitter-Front-End](https://github.com/CloneCoding-Twitter/Twitter-Front-End)
-
-<br />
-
----
-
-<br />
-
-# Skill.
-
-- Front-End:  React.js, HTML/CSS, JavaScript
-
-<br />
 <br />
