@@ -29,6 +29,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
+<br />
 
 <!-- 
 <br />
