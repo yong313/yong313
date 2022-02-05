@@ -8,7 +8,7 @@
     
   🌱 &nbsp; I’m currently learning React, TypeScript
   
-  🧑🏻‍💻 &nbsp;  I regularly write articles on [yong313.github.io](yong313.github.io)
+  🧑🏻‍💻 &nbsp;  I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
   📄 &nbsp; Know about my experiences [My Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
   
