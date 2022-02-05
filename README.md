@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
-<h3 align="center">🎉 Developers who make good things</h3>
+<h3 align="center">🎉 &nbsp; Developers who make good things</h3>
 <br />
 <div align="center">
     
