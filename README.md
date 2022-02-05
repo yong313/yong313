@@ -1,7 +1,6 @@
 <div align="right">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyong313%2Fhit-counter&count_bg=%23208DEF&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
-
 <h2 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
 <h4 align="center">🎉 &nbsp; Developers who make good things</h3>
 <br />
@@ -30,12 +29,10 @@
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
-
 <br />
-<!-- <div align="left">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" />
 </div> 
-<br/> -->
-
+<br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
