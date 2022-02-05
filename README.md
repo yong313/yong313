@@ -6,20 +6,6 @@
 
 <br />
 
-  ### Work Experience 🍕  
-
-  <div align="left">
-
- > 🍔 [생드백](https://thandbag.com/), [GitHub](https://github.com/thandbag/thandbag_FE) 2021.12 ~ 2021.02 
-  
- > 🍟 [트위터 클론코딩](https://thandbag.com/), [GitHub](https://github.com/CloneCoding-Twitter/Twitter-Front-End) 2021.12
-  
- > 🥤 [이력서 - 전용태](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)  
-
-  </div>
-
-<br />
-
   ### My Skill Set 🔥
 
   <div align="left">  
