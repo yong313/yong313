@@ -15,9 +15,11 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 30%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 30%" />
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" />
+</div>
+  
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
