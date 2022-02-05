@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
-<h3 align="center">🎉 &nbsp; Developers who make good things</h3>
+<h2 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
+<h4 align="center">🎉 &nbsp; Developers who make good things</h3>
 <br />
 <div align="center">
     
   🌱 &nbsp; I’m currently learning React, TypeScript
   
-  📝 &nbsp;  I regularly write articles on [yong313.github.io](yong313.github.io)
+  🧑🏻‍💻 &nbsp;  I regularly write articles on [yong313.github.io](yong313.github.io)
   
-  📄 &nbsp; Know about my experiences [my resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
+  📄 &nbsp; Know about my experiences [My Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
   
   ✉️ &nbsp;  How to reach me **wjsdydxo45@naver.com**
   
