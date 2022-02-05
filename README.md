@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
+
+<h3 align="center">🎉 Developers who make good things</h3>
+
+<br />
+
+<div align="center">
+    
+  🌱 &nbsp; I’m currently learning React, TypeScript
+  
+  📝 &nbsp;  I regularly write articles on [yong313.github.io](yong313.github.io)
+  
+  📄 &nbsp; Know about my experiences [my resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
+  
+  ✉️ &nbsp;  How to reach me **wjsdydxo45@naver.com**
+  
+  🥸 &nbsp; Fun fact I think I am little funny
+  
+</div>
 
 <br />
 
@@ -17,8 +36,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
-  <br />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" />
 </div>
   
