@@ -1,10 +1,7 @@
-<h1 align="left">Hi 👋, I'm Yong Tae Jeon</h1>
-
-<h3 align="left">🎉 Developers who make good things</h3>
-
+<h1 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
+<h3 align="center">🎉 Developers who make good things</h3>
 <br />
-
-<div align="left">
+<div align="center">
     
   🌱 &nbsp; I’m currently learning React, TypeScript
   
@@ -17,10 +14,8 @@
   🥸 &nbsp; Fun fact I think I am little funny
   
 </div>
-
 <br />
-
-<div align="left">  
+<div align="center">  
   <h3>🔨 Languages & Tools 🔧</h3>
   <a href="#"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a> 
   <a href="#"><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -33,12 +28,10 @@
 </div>
 
 <br />
-
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" /> -->
-</div>
-  
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" />
+</div> 
+<br/> -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
