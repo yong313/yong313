@@ -10,7 +10,7 @@
   
   🧑🏻‍💻 &nbsp;  I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
-  📄 &nbsp; Know about my experiences [My Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
+  📄 &nbsp; Know about my experiences [Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
   
   ✉️ &nbsp;  How to reach me **wjsdydxo45@naver.com**
   
