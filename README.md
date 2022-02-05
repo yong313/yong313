@@ -35,8 +35,8 @@
 <br />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" /> -->
 </div>
   
 <br/>
