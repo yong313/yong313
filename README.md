@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
+<h1 align="left">Hi 👋, I'm Yong Tae Jeon</h1>
 
-<h3 align="center">🎉 Developers who make good things</h3>
+<h3 align="left">🎉 Developers who make good things</h3>
 
 <br />
 
-<div align="center">
+<div align="left">
     
   🌱 &nbsp; I’m currently learning React, TypeScript
   
@@ -20,7 +20,7 @@
 
 <br />
 
-<div align="center">  
+<div align="left">  
   <h3>🔨 Languages & Tools 🔧</h3>
   <a href="#"><img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a> 
   <a href="#"><img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/></a>
@@ -34,11 +34,11 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 35%" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssinking91&hide_border=true&layout=compact" align="center" style="width: 32%" />
 </div>
   
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer)
