@@ -2,9 +2,6 @@
 
 <h2 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
 <h4 align="center">🎉 &nbsp;Developers who make good things</h3>
-<div align="center">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyong313%2Fhit-counter&count_bg=%23208DEF&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
 <br />
 <div align="center">
     
@@ -17,7 +14,7 @@
   ✉️ &nbsp;How to reach me **wjsdydxo45@naver.com**
   
   🥸 &nbsp;Fun fact I think I am little funny
-  
+    
 </div>
 <br />
 <div align="center">  
@@ -32,7 +29,12 @@
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 <br />
+<div align="center">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyong313%2Fhit-counter&count_bg=%23208DEF&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 <br />
+<br />
+
 <!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yong313&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 35%" />
