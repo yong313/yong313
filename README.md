@@ -2,19 +2,19 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyong313%2Fhit-counter&count_bg=%23208DEF&title_bg=%23444444&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <h2 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
-<h4 align="center">🎉 &nbsp; Developers who make good things</h3>
+<h4 align="center">🎉 &nbsp;Developers who make good things</h3>
 <br />
 <div align="center">
     
-  🌱 &nbsp; I’m currently learning React, TypeScript
+  🌱 &nbsp;I’m currently learning React, TypeScript
   
-  🧑🏻‍💻 &nbsp;  I regularly write articles on [yong313.github.io](https://yong313.github.io/)
+  🧑🏻‍💻 &nbsp;I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
-  📄 &nbsp; Know about my experiences [Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
+  📄 &nbsp;Know about my experiences [Resume](https://injelmi.notion.site/593566a2517742fcbcda36191f9ad36c)
   
-  ✉️ &nbsp;  How to reach me **wjsdydxo45@naver.com**
+  ✉️ &nbsp;How to reach me **wjsdydxo45@naver.com**
   
-  🥸 &nbsp; Fun fact I think I am little funny
+  🥸 &nbsp;Fun fact I think I am little funny
   
 </div>
 <br />
