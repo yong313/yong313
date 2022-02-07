@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header)
 
 <h2 align="center">Hi 👋, I'm Yong Tae Jeon</h1>
 <h4 align="center">🎉 &nbsp;Developers who make good things</h3>
@@ -41,4 +41,4 @@
 </div>      
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer)
