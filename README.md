@@ -5,7 +5,7 @@
 <br />
 <div align="center">
     
-  🌱 &nbsp;I’m currently learning React, TypeScript
+  🌱 &nbsp;I’m currently learning React, JavaScript
   
   🧑🏻‍💻 &nbsp;I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
