@@ -6,6 +6,8 @@
 <div align="center">
     
   🌱 &nbsp;I’m currently learning React, JavaScript
+
+  ✨ &nbsp;I Finished The Project [ThandBag](https://thandbag.com/)
   
   🧑🏻‍💻 &nbsp;I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
