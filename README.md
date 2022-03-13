@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=header)
 
-<h2 align="center">Hi <img src="https://user-images.githubusercontent.com/85574104/155248782-9b2a3aeb-7b93-42cc-8805-87496069145b.gif" width="2.8%" padding="10px 0 0 0" />   I'm Yong Tae Jeon </h1>
+<h2 align="center">Hi <img src="https://user-images.githubusercontent.com/85574104/155248782-9b2a3aeb-7b93-42cc-8805-87496069145b.gif" width="2.8%" padding="10px 0 0 0" />   I'm Yong Tae Jeon</h1>
 <h4 align="center">🎉 &nbsp;Developers who make good things</h3>
 <br />
 <div align="center">
