@@ -11,7 +11,7 @@
   
   🧑🏻‍💻 &nbsp;I regularly write articles on [yong313.github.io](https://yong313.github.io/)
   
-  📄 &nbsp;Know about my experiences [Resume](https://www.notion.so/injelmi/fcb38e9d2f934fa8b424aa61006e9867)
+  📄 &nbsp;Know about my experiences [Resume](https://injelmi.notion.site/fcb38e9d2f934fa8b424aa61006e9867)
   
   ✉️ &nbsp;How to reach me **wjsdydxo45@naver.com**
   
