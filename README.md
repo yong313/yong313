@@ -16,8 +16,9 @@
   ✉️ &nbsp;How to reach me **wjsdydxo45@naver.com**
   
   🥸 &nbsp;Fun fact I think I am little funny
-    
+   
 </div>
+<br />
 <br />
 <div align="center">  
   <h3>🔨 Languages & Tools 🔧</h3>
