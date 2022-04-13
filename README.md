@@ -4,7 +4,7 @@
 <h4 align="center">🎉 &nbsp;Developers who make good things</h3>
 <br />
 <div align="center">
-    ㄴㅇㄹㅁㄴㅇㄹ
+
   🌱 &nbsp;I’m currently learning React, JavaScript
 
   ✨ &nbsp;I Finished The Project [ThandBag](https://thandbag.com/)
